@@ -1,3 +1,3 @@
-# MyHeartbeat
+# LT3 Beat
 
-Android Wear Demo showing the heartbeat on a Moto 360 smartwatch.
+Android Wear Demo connecting users heartrate to a songs bpm.
